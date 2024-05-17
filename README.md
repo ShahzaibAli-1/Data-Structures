@@ -8,7 +8,7 @@ Welcome to the Data Structures Library! This repository contains implementations
 2. [Available Data Structures](#available-data-structures)
 3. [How to Use](#how-to-use)
 4. [Contributing](#contributing)
-5. [License](#license)
+
 
 ## Introduction
 
@@ -41,9 +41,5 @@ Make sure to check the documentation and comments within the source code for det
 ## Contributing
 
 Contributions are welcome! If you'd like to add a new data structure, improve an existing implementation, or provide examples in additional programming languages, please follow the [contribution guidelines](CONTRIBUTING.md). Please adhere to the [code of conduct](CODE_OF_CONDUCT.md).
-
-## License
-
-This Data Structures Library is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the code for your own projects. If you make improvements or additions, consider contributing back to this repository!
 
 Happy coding!
